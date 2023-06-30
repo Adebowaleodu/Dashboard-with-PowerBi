@@ -9,6 +9,6 @@ Donut Chart showing sum of sales by segment,
 Pie chart showing sum of sales by region,
 Stacked-column chart showing sum of sales by sub-category,
 Line chart showing sum of sales by year, quarter, month and region,
-Map shwoing sum of sales by state.
+Map showing sum of sales by state.
 Four cards displaying total profit, total sales, total discount and total quantity
 and a scroller that shows profits per states.
